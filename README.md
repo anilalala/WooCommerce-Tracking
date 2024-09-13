@@ -5,8 +5,8 @@ An easy to use tracking tool for Wordpress that help you better understand user'
 ### Installation
 
 * Download the project to your WordPress plugins folder
-* Activate it in the Plugins section in Wordpress Admin menu. 
-* Go to Flexie Tracking section in Wordpress Admin menu.
+* Activate it in the Plugins section in Wordpress Admin menu
+* Go to Flexie Tracking section in Wordpress Admin menu
 
 ---
 
